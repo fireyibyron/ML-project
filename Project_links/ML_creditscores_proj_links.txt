@@ -1,0 +1,11 @@
+                         Machine learning Credit_Scores final project$$$the source code is work of individual research.$$$
+///////////////////////The links below leads to the model's source code on kaggle, GitHub respository and the web app url///////////////////////
+
+copy and paste the link(s) to the borwser of your choice:
+
+kaggle:                  https://www.kaggle.com/code/byronfireyi/byron-fireyi
+GitHub respository:      https://github.com/fireyibyron/creditscoresbtf
+web app url:             https://creditscoresbtf.onrender.com
+
+
+Complied by: Byron Thabani Fireyi
